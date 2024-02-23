@@ -4,3 +4,6 @@ I  changed the file names
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Wake up in the morning
+- [ ] Make bed
+- [ ] Brush teeth
